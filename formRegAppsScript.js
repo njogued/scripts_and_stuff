@@ -15,8 +15,6 @@ function onFormSubmit(e) {
         break;
     }
   }
-  // let fname = 'Edward';
-  // let emailAddress = "njogued@gmail.com";
   const subject = "You’re confirmed";
   const htmlBody = `<p style="margin:0 0 16px;">Hi ${fname},</p>
   <p style="margin:0 0 16px;">Thank you for registering for the session!</p>
